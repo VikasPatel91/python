@@ -1,0 +1,33 @@
+Q1. print table from 2 to 10.
+Q2. Reverse the given number.
+Q3. Find the roots of given equation.
+Q4. check whether num is perfect or not.(sum of lcm = num)
+Q5. check whether num is palindrome or not.(same number when we Reverse num)
+Q6. Find factorial of given num.
+Q7. Find greatest common divisor from given two numbers.
+Q8. Print fibonacci Series.
+Q9. check whether string have repeated alphabet or not and if have then print next alphabet from the string.
+Q10. Given a string, the task is to reverse the order of the words in the given string.
+Q11. Calculate numbers of vowel in string.
+Q12. Calculate number of words in string.
+Q13. remove vowels from string.
+Q14. find the maximum and minimum number from array.
+Q15. Array list is Monotonic or not.
+Q16. Check which number in array list is lonely. 
+Q17. find index of teo numbers which is added and we get target value. [1,2,3] target=3 output=0,1
+Q18. matrix 
+Q19. check the alphabet wheather it is lower case or uppercase and if upper make it lower and if lower make it upper
+Q20. count no. of substrings from the given string.
+Q21. find second highest number from array.
+Q22.
+                # input = 1 2 3 4 5 6 7 
+                # no. of times rotates = 1
+                # output = 7 1 2 3 4 5 6
+
+                # input = 1 2 3 4 5 6 7 
+                # no. of times rotates = 2
+                # output = 6 7 1 2 3 4 5 
+                
+                # input = 1 2 3 4 5 6 7 
+                # no. of times rotates = 3
+                # output = 5 6 7 1 2 3 4
